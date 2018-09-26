@@ -1,0 +1,30 @@
+C:\Users\kayla\source\repos\GadeAssignment\GadeAssignment\bin\Debug\GadeAssignment.exe.config
+C:\Users\kayla\source\repos\GadeAssignment\GadeAssignment\bin\Debug\GadeAssignment.exe
+C:\Users\kayla\source\repos\GadeAssignment\GadeAssignment\bin\Debug\GadeAssignment.pdb
+C:\Users\kayla\source\repos\GadeAssignment\GadeAssignment\obj\Debug\GadeAssignment.csprojResolveAssemblyReference.cache
+C:\Users\kayla\source\repos\GadeAssignment\GadeAssignment\obj\Debug\GadeAssignment.Form1.resources
+C:\Users\kayla\source\repos\GadeAssignment\GadeAssignment\obj\Debug\GadeAssignment.Properties.Resources.resources
+C:\Users\kayla\source\repos\GadeAssignment\GadeAssignment\obj\Debug\GadeAssignment.csproj.GenerateResource.Cache
+C:\Users\kayla\source\repos\GadeAssignment\GadeAssignment\obj\Debug\GadeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kayla\source\repos\GadeAssignment\GadeAssignment\obj\Debug\GadeAssignment.exe
+C:\Users\kayla\source\repos\GadeAssignment\GadeAssignment\obj\Debug\GadeAssignment.pdb
+C:\Users\kayla\source\repos\17603966 Kayla Coetzee GADE5112\GadeAssignment\GadeAssignment\obj\Debug\GadeAssignment.Form1.resources
+C:\Users\kayla\source\repos\17603966 Kayla Coetzee GADE5112\GadeAssignment\GadeAssignment\obj\Debug\GadeAssignment.Properties.Resources.resources
+C:\Users\kayla\source\repos\17603966 Kayla Coetzee GADE5112\GadeAssignment\GadeAssignment\obj\Debug\GadeAssignment.csproj.GenerateResource.Cache
+C:\Users\kayla\source\repos\17603966 Kayla Coetzee GADE5112\GadeAssignment\GadeAssignment\obj\Debug\GadeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kayla\source\repos\17603966 Kayla Coetzee GADE5112\GadeAssignment\GadeAssignment\obj\Debug\GadeAssignment.exe
+C:\Users\kayla\source\repos\17603966 Kayla Coetzee GADE5112\GadeAssignment\GadeAssignment\obj\Debug\GadeAssignment.pdb
+C:\Users\kayla\source\repos\17603966 Kayla Coetzee GADE5112\GadeAssignment\GadeAssignment\bin\Debug\GadeAssignment.exe.config
+C:\Users\kayla\source\repos\17603966 Kayla Coetzee GADE5112\GadeAssignment\GadeAssignment\bin\Debug\GadeAssignment.exe
+C:\Users\kayla\source\repos\17603966 Kayla Coetzee GADE5112\GadeAssignment\GadeAssignment\bin\Debug\GadeAssignment.pdb
+C:\Users\kayla\source\repos\17603966 Kayla Coetzee GADE5112\GadeAssignment\GadeAssignment\obj\Debug\GadeAssignment.csprojResolveAssemblyReference.cache
+C:\Users\kayla\source\repos\17603966 Kayla Coetzee GADE5112 TASK 2\GadeAssignment\GadeAssignment\obj\Debug\GadeAssignment.csprojResolveAssemblyReference.cache
+C:\Users\kayla\source\repos\17603966 Kayla Coetzee GADE5112 TASK 2\GadeAssignment\GadeAssignment\obj\Debug\GadeAssignment.Form1.resources
+C:\Users\kayla\source\repos\17603966 Kayla Coetzee GADE5112 TASK 2\GadeAssignment\GadeAssignment\obj\Debug\GadeAssignment.Properties.Resources.resources
+C:\Users\kayla\source\repos\17603966 Kayla Coetzee GADE5112 TASK 2\GadeAssignment\GadeAssignment\obj\Debug\GadeAssignment.csproj.GenerateResource.Cache
+C:\Users\kayla\source\repos\17603966 Kayla Coetzee GADE5112 TASK 2\GadeAssignment\GadeAssignment\obj\Debug\GadeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kayla\source\repos\17603966 Kayla Coetzee GADE5112 TASK 2\GadeAssignment\GadeAssignment\obj\Debug\GadeAssignment.exe
+C:\Users\kayla\source\repos\17603966 Kayla Coetzee GADE5112 TASK 2\GadeAssignment\GadeAssignment\obj\Debug\GadeAssignment.pdb
+C:\Users\kayla\source\repos\17603966 Kayla Coetzee GADE5112 TASK 2\GadeAssignment\GadeAssignment\bin\Debug\GadeAssignment.exe.config
+C:\Users\kayla\source\repos\17603966 Kayla Coetzee GADE5112 TASK 2\GadeAssignment\GadeAssignment\bin\Debug\GadeAssignment.exe
+C:\Users\kayla\source\repos\17603966 Kayla Coetzee GADE5112 TASK 2\GadeAssignment\GadeAssignment\bin\Debug\GadeAssignment.pdb
